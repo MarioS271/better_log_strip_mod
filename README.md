@@ -1,4 +1,4 @@
-# cat-vision-mod (fabric)
+# better-log-strip-mod (fabric)
 A mod to improve log stripping and prevent accidentally ruining your base when holding an axe.
 
 ### Current Features (v1.0):
