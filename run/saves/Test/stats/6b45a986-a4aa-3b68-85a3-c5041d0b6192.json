@@ -1,0 +1,19 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:iron_axe": 3,
+      "minecraft:oak_log": 3
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 445,
+      "minecraft:walk_one_cm": 128,
+      "minecraft:total_world_time": 445,
+      "minecraft:fly_one_cm": 560,
+      "minecraft:sneak_time": 6,
+      "minecraft:play_time": 445,
+      "minecraft:jump": 1,
+      "minecraft:time_since_death": 445
+    }
+  },
+  "DataVersion": 4671
+}

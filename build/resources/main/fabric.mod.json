@@ -1,0 +1,23 @@
+{
+    "schemaVersion": 1,
+    "id": "better_log_strip",
+    "version": "1.0-1.21.11",
+    "name": "better_log_strip",
+    "description": "A mod to improve log stripping and prevent accidentally ruining your base when holding an axe.",
+    "authors": ["MarioS271"],
+    "contact": {},
+    "license": "AGPL-3.0",
+    "icon": "assets/better_log_strip/icon.png",
+    "environment": "client",
+    "accessWidener": "better_log_strip.accesswidener",
+    "entrypoints": {
+        "client": [
+            "net.marios271.BetterLogStrip"
+        ]
+    },
+    "depends": {
+        "fabricloader": ">=0.18.4",
+        "fabric-api": "*",
+        "minecraft": "1.21.11"
+    }
+}

@@ -1,0 +1,2 @@
+/give @s minecraft:repeating_command_block
+/gamerule command_block_output false
