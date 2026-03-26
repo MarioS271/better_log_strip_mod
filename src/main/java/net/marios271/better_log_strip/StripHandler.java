@@ -1,4 +1,4 @@
-package net.marios271;
+package net.marios271.better_log_strip;
 
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.InteractionResult;
@@ -31,12 +31,12 @@ public class StripHandler {
             long now = System.currentTimeMillis();
 
             if (pos.equals(lastPos) && (now - lastTime) < WINDOW_MS) {
-                player.displayClientMessage(Component.empty(), true);
+                player.sendOverlayMessage(Component.empty());
 
                 lastPos = null;
                 return InteractionResult.PASS;
             } else {
-                player.displayClientMessage(Component.translatable("message.better_log_strip.click_again"), true);
+                player.sendOverlayMessage(Component.translatable("message.better_log_strip.click_again"));
 
                 lastPos = pos;
                 lastTime = now;

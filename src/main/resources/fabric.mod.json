@@ -12,7 +12,7 @@
     "accessWidener": "better_log_strip.accesswidener",
     "entrypoints": {
         "client": [
-            "net.marios271.BetterLogStrip"
+            "net.marios271.better_log_strip.BetterLogStrip"
         ]
     },
     "depends": {

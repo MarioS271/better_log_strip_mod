@@ -1,4 +1,4 @@
-package net.marios271;
+package net.marios271.better_log_strip;
 
 import net.fabricmc.api.ClientModInitializer;
 

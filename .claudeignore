@@ -1,0 +1,10 @@
+.gradle
+.idea
+.git
+.github
+build
+run
+.gitignore
+README.md
+gradlew*
+LICENSE
