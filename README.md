@@ -1,5 +1,12 @@
-# better-log-strip-mod (fabric)
-A mod to improve log stripping and prevent accidentally ruining your base when holding an axe.
+# BetterLogStrip
+
+A fabricmc minecraft mod to improve log stripping and prevent accidentally ruining your base when holding an axe.
+
+Ever been tired of accidentally stripping random logs in your builds?
+Well, BetterLogStrip is here to help.
+
+This mod makes it so that one the first strip interaction, you get a message which says "Click again to strip log".
+As the message implies, you have to now double-click to strip logs, so no more annoying accidental log strips!
 
 ### Current Features (v1.0):
 - When stripping a log, you need to click twice in order to prevent accidental stripping
@@ -8,8 +15,6 @@ A mod to improve log stripping and prevent accidentally ruining your base when h
 - English
 - German
 - German (Austrian)
-
-<hr>
 
 ### Download here:
 - [Modrinth](https://modrinth.com/mod/betterlogstrip)
